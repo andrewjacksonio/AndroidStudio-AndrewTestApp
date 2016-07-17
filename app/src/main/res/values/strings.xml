@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Andrew\'s Test App!</string>
+    <string name="app_label">Welcome to Andrew\'s Test App!</string>
+    <string name="action_settings">Settings</string>
+</resources>
